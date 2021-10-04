@@ -1,0 +1,72 @@
+[
+    {
+        "name": "PLC",
+        "tittle": "Programmable Logic Controllers",
+        "id": 1001,
+        "price": 4500,
+        "img": "https://originbd.net/wp-content/uploads/2019/04/9-plc-programming.jpg"
+    },
+    {
+        "name": "EMM",
+        "tittle": "Electrical Machine Maintenace",
+        "id": 1002,
+        "price": 5000,
+        "img": "https://www.plantengineering.com/wp-content/uploads/sites/4/2015/04/PLE1504_Maintenance_Solutions_Emerson_slider.jpg"
+    },
+    {
+        "name": "HOUSE WIRING",
+        "tittle": "House wiring",
+        "id": 1003,
+        "price": 6500,
+        "img": "https://i.ytimg.com/vi/JmwL-3rhgwY/maxresdefault.jpg"
+    },
+    {
+        "name": "AUTOMIBILE",
+        "tittle": "Car Maintenace",
+        "id": 1004,
+        "price": 5500,
+        "img": "https://img.etimg.com/thumb/msid-70887068,width-1200,height-900,imgsize-171448,overlay-economictimes/photo.jpg"
+    },
+    {
+        "name": "BASIC-COMPUTER",
+        "tittle": "Computer Learning",
+        "id": 1005,
+        "price": 500,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/2048px-Gnome-computer.svg.png"
+    },
+    {
+        "name": "AUTO-CAD",
+        "tittle": "Desing for defferent site",
+        "id": 1006,
+        "price": 3500,
+        "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/01/AutoCAD-For-Students.jpg"
+    },
+    {
+        "name": "KORIAN-LANGUAGE",
+        "tittle": "Learn Kurian Language",
+        "id": 1007,
+        "price": 2500,
+        "img": "https://www.mageplaza.com/assets/img/language-pack/korean.png"
+    },
+    {
+        "name": "MOTOR-WINDING",
+        "tittle": "Motor Re-winding",
+        "id": 1008,
+        "price": 1500,
+        "img": "https://i.ytimg.com/vi/zH_WDPbixSI/maxresdefault.jpg"
+    },
+    {
+        "name": "GHRAPICS-DESIGN",
+        "tittle": "Grapics Design",
+        "id": 1009,
+        "price": 5000,
+        "img": "https://www.freepik.com/blog/app/uploads/2016/12/An-Introduction-To-Graphic-Design-Part-1.jpg"
+    },
+    {
+        "name": "ENGLISH-LANGUAGE",
+        "tittle": "Learning English Language",
+        "id": 1010,
+        "price": 5500,
+        "img": "https://1.bp.blogspot.com/-VtRI3Kd1ug8/XIYN1frZt8I/AAAAAAAASig/4y9zDGcKOMEfT5AyG3IT25IcEWqLTzYAwCLcBGAs/s1600/multiethnic-group-children-english-concept-260nw-197720093.jpg"
+    }
+]
